@@ -1,0 +1,5 @@
+SS-HELPER/
+├── SS_HELPER_v4.0.ps1    # Script principale
+├── launcher.ps1            # Launcher per esecuzione remota
+├── README.md               # Documentazione
+└── LICENSE                 # Licenza MIT
